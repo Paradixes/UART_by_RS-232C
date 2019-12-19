@@ -10,8 +10,8 @@ This repository is for studying UART and RS-232C
 - [ ] pass
 
 ## part3: MAX3222
-- [ ] pass
-- [ ] \(Optional) simulation
+- [x] Description of MAX3222
+- [ ] \(Optional) Simulation
 
 ## part4: Application
 - [ ] pass
