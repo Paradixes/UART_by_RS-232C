@@ -2,16 +2,16 @@
 This repository is for studying UART and RS-232C
 
 ## part1: What is UART?
-- [ ] pass
-- [ ] data frame
-- [ ] pass
+- [x] Brief introduction
+- [x] Data frame
+- [x] The principle of RS-232C
 
-## part2: The principle of RS-232C
-- [ ] pass
+## part2: Circuit
+- [x] Design
 
 ## part3: MAX3222
 - [x] Description of MAX3222
-- [ ] \(Optional) Simulation
+- [ ] ***(Failed)*** Simulation
 
 ## part4: Application
-- [ ] pass
+- [x] Some application introduction
